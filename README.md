@@ -33,7 +33,7 @@ date: 2024/10/03
 
 ## python代码
 
-仓库地址:
+仓库地址:[Typora/loeng1995](https://github.com/loeng1995/Typora-upload.git)
 
 文件结构:![image-20241003143649215](https://images.loeng.top/rest/2024/10/HVQkc8K.png)
 
